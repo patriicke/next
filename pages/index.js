@@ -7,8 +7,7 @@ export default function Home() {
       <Head>
         <title>Next</title>
       </Head>
-      <Link href="about">About</Link>
-      <h1 className={styles.header}>Hello World</h1>
+      <h1 className={styles.header}>Home Page</h1>
     </div>
   );
 }
